@@ -39,9 +39,9 @@ This document is that question, in structured form.
 
 ## 📎 Portfolio PDF
 
-📄 Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf  
-A full portfolio with structured examples and commentary.  
-(You can click the file above in the repo to view or download.)
+* [`NonCoder_Structural_Shifts_with_Conversation_Proofs_v2.pdf`](NonCoder_Structural_Shifts_with_Conversation_Proofs_v2.pdf):  
+  A full portfolio with structured examples and commentary.
+
 
 ## Contact
 
