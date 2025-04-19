@@ -39,8 +39,9 @@ This document is that question, in structured form.
 
 ## Contents
 
-- `Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf`:  
+* [`Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf`](Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf):  
   A full portfolio with structured examples and commentary.
+
 
 ## Contact
 
