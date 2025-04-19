@@ -1,4 +1,15 @@
-# GPT Structure Log
+# How a Non-Coder Changed GPT Output Structure
+
+This is a real observation log—compiled with GPT’s help—of how a non-coder who doesn’t speak English or code altered GPT’s output structure through natural language questions.
+
+---
+
+## Contact (for researchers / OpenAI team)
+
+If this log is of interest to you or your team, feel free to reach out:  
+**gpt.signal.log@gmail.com**
+
+---
 
 This repository contains a portfolio created through unintended interaction with GPT, where structural output changes occurred without any code, technical knowledge, or language fluency.
 
