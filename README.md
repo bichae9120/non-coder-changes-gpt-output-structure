@@ -41,8 +41,11 @@ This document is that question, in structured form.
 
 ## Contents
 
-*NonCoder_Structural_Shifts_with_Conversation_Proofs_v2.pdf:  
+## Contents
+
+* [`Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf`](Portfolio_GPT_User_ENGLISH_FINAL_FORMATTED.pdf):  
   A full portfolio with structured examples and commentary.
+
 
 
 ## Contact
